@@ -1,2 +1,2 @@
-## Este portifolio tem a finalidade de apresentar meus projetos profissionais.
+## Oi eu sou o Lucas!
 ### Estou aprendendo linguagens como Java, Python, HTML.
